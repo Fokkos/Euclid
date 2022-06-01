@@ -22,6 +22,7 @@ function hcf(a,b){
 
 function start(){
     var input = takeInput();
+    string = "";
     var a = input[0];
     var b = input[1];
     hcf(a,b)
